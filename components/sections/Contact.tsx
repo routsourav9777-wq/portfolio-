@@ -99,7 +99,7 @@ export default function Contact() {
             <div className="flex gap-4">
               {[
                 { icon: Github, href: 'https://github.com/routsourav9777-wq', label: 'GitHub' },
-                { icon: Linkedin, href: 'https://linkedin.com/in/souravr', label: 'LinkedIn' },
+                { icon: Linkedin, href: 'https://www.linkedin.com/in/sourav-rout-331869395', label: 'LinkedIn' },
               ].map(({ icon: Icon, href, label }) => (
                 <a
                   key={label}

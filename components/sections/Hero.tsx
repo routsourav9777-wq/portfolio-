@@ -142,7 +142,7 @@ export default function Hero() {
           >
             {[
               { icon: Github, href: 'https://github.com/routsourav9777-wq', label: 'GitHub' },
-              { icon: Linkedin, href: 'https://linkedin.com/in/souravr', label: 'LinkedIn' },
+              { icon: Linkedin, href: 'https://www.linkedin.com/in/sourav-rout-331869395', label: 'LinkedIn' },
               { icon: Twitter, href: 'https://twitter.com/souravr', label: 'Twitter' },
             ].map(({ icon: Icon, href, label }) => (
               <a
